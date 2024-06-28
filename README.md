@@ -17,7 +17,8 @@ The tasks that haven't been covered and might be at a later date include:
 
 1. Updating the stock items once a customer has selected / purchased items
 2. Customer editing their cart to remove items
-3. Optimizing some of the functions for speed / time complexities
+3. Add prompt to ask user how they'd like to pay
+4. Optimizing some of the functions for speed / time complexities
 
 ##### DISCLAIMER
 
